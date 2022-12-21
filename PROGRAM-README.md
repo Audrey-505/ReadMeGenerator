@@ -5,6 +5,10 @@
 
 This program uses the command line to create a README.md file
 
+## Badge
+
+<img alt= "Git-License" src="https://img.shields.io/badge/license-GNU General Public License v2.0-green">
+
 ## Installation 
 
 npm inquirer installation is required 
