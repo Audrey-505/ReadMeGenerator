@@ -19,7 +19,7 @@ N/A
 
 ## License
 
-N/A
+GNU General Public License v2.0
 
 ## Preview of Program in use   
 
